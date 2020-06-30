@@ -1,3 +1,4 @@
 # hello-world
 This is the first repository.
-Working through the Coursera data science sequence
+Enjoying the Coursera data science sequence 
+Something that I wanted to look into
